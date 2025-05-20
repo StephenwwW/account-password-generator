@@ -31,6 +31,8 @@ account-password-generator/
 ├── LICENSE
 ├── .gitignore
 ├── requirements.txt
+├── images/
+│   └── screenshot.png
 └── src/
     ├── main.py
     └── japanese_names.py
