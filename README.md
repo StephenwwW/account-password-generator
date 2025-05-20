@@ -8,7 +8,7 @@ This project is a GUI tool for generating random accounts, passwords, and Japane
 
 ## 預覽畫面 | Screenshot
 
-![帳號密碼產生器預覽圖](images/screenshot.png)  
+![帳號密碼產生器預覽圖](account-password-generator/images/screenshot.png)  
 _▲ 程式主畫面：可產生隨機帳號、密碼與日文姓名（顯示漢字、假名、羅馬拼音）_
 
 ## 功能特色 | Features
